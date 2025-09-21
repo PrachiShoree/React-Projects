@@ -1,0 +1,8 @@
+.display{
+  margin: 10px;
+  width: 200px;
+  font-size: 25px;
+  border: 1px solid pink;
+  color: purple;
+  border-radius: 5px;
+}

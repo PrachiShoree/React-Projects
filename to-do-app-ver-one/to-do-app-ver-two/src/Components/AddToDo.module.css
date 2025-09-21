@@ -1,0 +1,8 @@
+.addButton{
+  min-width:fit-content;
+  background-color: green;
+  color: white;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding-bottom: 5px;
+}
